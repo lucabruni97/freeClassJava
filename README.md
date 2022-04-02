@@ -3,6 +3,8 @@ Esercizio Free Class Java: Applicazione per gestire studenti e corsi
 
 # ISTRUZIONI PER AVVIARE L'APPLICAZIONE
 
+Spostarsi in una delle cartelle creare in questo repository.
+
 ## DAL TERMINALE
 
 ### Prerequisiti
